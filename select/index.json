@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "LIKE YOU BETTER",
+  "base_artist": "fromis_9",
+  "createdAt": "2025-12-26T13:04:09.479128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Might Like You Better",
+      "artist": "Amanda Blank",
+      "has_synced": true,
+      "path": "select/01_Might_Like_You_Better_Amanda_Blank.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like You Better Dead",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/02_Like_You_Better_Dead_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like You Better",
+      "artist": "Tia Gostelow",
+      "has_synced": true,
+      "path": "select/03_Like_You_Better_Tia_Gostelow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Like You Better When You're Not Around",
+      "artist": "Kate Miller-Heidke",
+      "has_synced": true,
+      "path": "select/04_I_Like_You_Better_When_You're_Not_Around_Kate_Miller-Heidke.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Like You Better When You're Not Around",
+      "artist": "Kate Miller‐Heidke",
+      "has_synced": true,
+      "path": "select/05_I_Like_You_Better_When_You're_Not_Around_Kate_Miller‐Heidke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like You Better Dead",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/06_Like_You_Better_Dead_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Like You Better",
+      "artist": "Jaira Burns",
+      "has_synced": true,
+      "path": "select/07_I_Like_You_Better_Jaira_Burns.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Like You Better",
+      "artist": "Old 97’s",
+      "has_synced": false,
+      "path": "select/08_I_Like_You_Better_Old_97’s.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like You Better Dead",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/09_Like_You_Better_Dead_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Like You Better Dead",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/10_Like_You_Better_Dead_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Like You Better",
+      "artist": "Frazey Ford",
+      "has_synced": true,
+      "path": "select/11_I_Like_You_Better_Frazey_Ford.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Might Like You Better (120 Bpm)",
+      "artist": "Amanda Blank",
+      "has_synced": true,
+      "path": "select/12_Might_Like_You_Better_(120_Bpm)_Amanda_Blank.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIKE YOU BETTER",
+      "artist": "fromis_9",
+      "has_synced": false,
+      "path": "select/pl_01_LIKE_YOU_BETTER_fromis_9.txt"
+    }
+  ]
+}
